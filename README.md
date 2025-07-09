@@ -110,7 +110,3 @@ Collected tweets related to major COVID-19 vaccines using **Tweepy** and perform
 **Guided by:** Prof. Cherian Samuel
 
 ---
-
-## 📜 License
-
-This project is for academic and research purposes only. Please contact us for collaboration or permission to reuse components.
